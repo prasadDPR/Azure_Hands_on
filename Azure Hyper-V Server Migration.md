@@ -1,7 +1,8 @@
 # Azure_Hyper-V_Server_Migration
 Migrating from an on-premises Hyper-V environment to Azure using Azure Migrate involves a structured process facilitated by Azure tools and services. Here’s a more detailed step-by-step guide:
 
-![Alt text](<Azure Server Migration Diagram-1.jpg>)
+![Azure Server Migration Diagram](https://github.com/user-attachments/assets/a3495a44-8e3a-4634-aa01-68b3a0f480f1)
+
 
 ### 1. **Prepare Azure Environment:**
 
